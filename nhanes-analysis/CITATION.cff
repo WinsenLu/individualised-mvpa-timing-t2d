@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, cite it using this metadata and also cite the associated study."
+title: "NHANES 2011–2014 primary Model 3 analysis for individualised MVPA timing"
+type: software
+license: MIT
+authors:
+  - family-names: Lu
+    given-names: Weiye
+  - family-names: Yu
+    given-names: Shiyao
+  - family-names: Xiang
+    given-names: Jingyi
+  - family-names: Chen
+    given-names: Yuna
+  - family-names: Liu
+    given-names: Ligang
+  - family-names: Zhu
+    given-names: Junhua
+  - family-names: An
+    given-names: Jie
+  - family-names: Qiu
+    given-names: Shijun
+abstract: >-
+  R code for the fully adjusted primary NHANES 2011–2014 analyses of
+  individualised sleep-anchored MVPA timing with prevalent diabetes and
+  glycaemic measures, including multiple imputation, outcome-specific
+  complex-survey designs, Model 3 survey-weighted regression, and Rubin pooling.
