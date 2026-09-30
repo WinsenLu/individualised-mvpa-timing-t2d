@@ -2,7 +2,7 @@
 
 This repository contains the R code for the **primary UK Biobank Cox regression analysis** in the study:
 
-> *Individualised timing of the 24-h MVPA distribution and type 2 diabetes: evidence from UK Biobank and NHANES*
+> *Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes in two population-based cohorts*
 
 The code fits the four progressively adjusted Cox proportional hazards models specified in the manuscript for:
 
