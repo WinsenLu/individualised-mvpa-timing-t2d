@@ -1,4 +1,4 @@
-# Individualised timing of the 24-h MVPA distribution — UK Biobank exposure derivation
+# Individualised timing of the MVPA distribution — UK Biobank exposure derivation
 
 This repository contains the R code used to derive the **individualised, sleep-anchored timing of moderate-to-vigorous physical activity (MVPA)** in the UK Biobank component of the study:
 
