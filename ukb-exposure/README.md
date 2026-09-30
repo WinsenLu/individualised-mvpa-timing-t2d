@@ -2,7 +2,7 @@
 
 This repository contains the R code used to derive the **individualised, sleep-anchored timing of moderate-to-vigorous physical activity (MVPA)** in the UK Biobank component of the study:
 
-> *Individualised timing of the 24-h MVPA distribution and type 2 diabetes: evidence from UK Biobank and NHANES*
+> Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes in two population-based cohorts*
 
 The repository is intentionally limited to **exposure derivation**. It does not redistribute UK Biobank participant-level data and does not contain the complete incident type 2 diabetes outcome ascertainment or regression-analysis pipeline.
 
