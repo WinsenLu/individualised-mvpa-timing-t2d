@@ -1,8 +1,8 @@
-# Individualised timing of the 24-h MVPA distribution and type 2 diabetes
+# Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes 
 
 This repository contains the R code associated with the study:
 
-> **Individualised timing of the 24-h MVPA distribution and type 2 diabetes: evidence from UK Biobank and NHANES**
+> **Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes across two population-based studies**
 
 The project evaluates a **sleep-anchored, distribution-based measure of moderate-to-vigorous physical activity (MVPA) timing**. The exposure is defined by referencing the circular centroid of each participant's habitual 24-h MVPA distribution to that participant's habitual sleep midpoint.
 
