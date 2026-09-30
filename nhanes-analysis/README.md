@@ -2,7 +2,7 @@
 
 This repository contains R code for the **fully adjusted primary NHANES 2011–2014 analysis (Model 3 only)** in the study:
 
-> *Individualised timing of the 24-h MVPA distribution and type 2 diabetes: evidence from UK Biobank and NHANES*
+> *Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes in two population-based cohorts*
 
 The primary exposure is:
 
