@@ -2,7 +2,7 @@
 
 This repository contains the R code associated with the study:
 
-> **Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes across two population-based studies**
+> **Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes in two population-based cohorts**
 
 The project evaluates a **sleep-anchored, distribution-based measure of moderate-to-vigorous physical activity (MVPA) timing**. The exposure is defined by referencing the circular centroid of each participant's habitual 24-h MVPA distribution to that participant's habitual sleep midpoint.
 
