@@ -2,7 +2,7 @@
 
 This repository contains R code used to derive the **individualised, sleep-anchored timing of moderate-to-vigorous physical activity (MVPA)** in the US National Health and Nutrition Examination Survey (NHANES) 2011–2014 component of the study:
 
-> *Individualised timing of the 24-h MVPA distribution and type 2 diabetes: evidence from UK Biobank and NHANES*
+> *Individualized distribution-based moderate-to-vigorous physical activity timing and type 2 diabetes in two population-based cohorts*
 
 The repository is deliberately focused on **accelerometer exposure derivation**. It does not include glycaemic outcomes, survey-weighted regression models, multiple imputation, dietary covariates, or other downstream epidemiological analyses.
 
